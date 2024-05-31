@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+.container{
+    padding: 30px 40px 30px 100px;
+}
+
+.box1{
+    flex-basis: 850px;
+}
+
+.sort button{
+    transition: 0.3s ease;
+}
+
+form button{
+    transition: 0.3s ease;
+
+}
